@@ -1,5 +1,5 @@
 {
-  "name": "orrery",
+  "name": "Orrery Web App",
   "version": "1.1.7",
   "description": "An interactive map of the Solar System created with Three.js and jQuery.",
   "main": "js/orrery/launch.js",
