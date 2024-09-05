@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitterstoat/orrery.git"
+    "url": "git+https://github.com/Anubprashanth/Orrery-Web-App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bitterstoat/orrery/issues"
+    "url": "https://github.com/Anubprashanth/Orrery-Web-App/issues"
   },
-  "homepage": "https://github.com/bitterstoat/orrery#readme",
+  "homepage": "https://github.com/Anubprashanth/Orrery-Web-App#readme",
   "devDependencies": {
     "jsdoc": "^3.6.10",
     "three": "^0.156",
